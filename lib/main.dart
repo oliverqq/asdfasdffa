@@ -8,6 +8,7 @@ class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
   final master = 0;
+  final neww = 0;
 
   @override
   Widget build(BuildContext context) {
